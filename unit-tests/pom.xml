@@ -29,7 +29,17 @@
             <artifactId>groovy-all</artifactId>
             <version>${groovy.version}</version>
             <scope>test</scope>
-        </dependency>
+    </dependency>
+    <dependency>
+    <groupId>me.kingtux</groupId>
+    <artifactId>tuxjsql-mysql</artifactId>
+    <version>1.2.4</version>
+</dependency>
+<dependency>
+    <groupId>de.pentabyte</groupId>
+    <artifactId>google-static-map-creator</artifactId>
+    <version>2.3.0</version>
+</dependency>
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
